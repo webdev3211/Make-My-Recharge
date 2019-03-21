@@ -1,4 +1,4 @@
-# Make-My-Recharge
+# Make-My-Recharge ![alt_text](https://images-na.ssl-images-amazon.com/images/I/41dH2-IMFmL._SY355_.png)
 make recharge from amazon within seconds without any hurdles of logging in or adding money 
 
 # STEPS
