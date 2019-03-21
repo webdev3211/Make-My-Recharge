@@ -7,7 +7,7 @@ make recharge from amazon within seconds without any hurdles of logging in or ad
 
 ![alt text](https://i.ibb.co/6ymr32k/Capture2.png)
 
-![alt text](https://i.ibb.co/6ymr32k/Capture1.png)
+![alt text](https://i.ibb.co/6H3YfTz/Capture1.png)
 
 
 
