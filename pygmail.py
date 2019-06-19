@@ -1,8 +1,8 @@
 import imaplib, email
 import csv
 
-user = 'tushar.baheti28@gmail.com'
-password = 'ramalalaa'
+user = 'myemailid@gmail.com'
+password = ''
 imap_url = 'imap.gmail.com'
 
 def get_body(msg):
